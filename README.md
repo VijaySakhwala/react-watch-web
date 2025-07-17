@@ -4,7 +4,7 @@ A modern and responsive React application for showcasing and shopping watches. T
 
 ## Demo
 
-A live demo of the project is avaiable here [https://react-watch-web.vercel.app/](url)
+A live demo of the project is [avaiable here](https://react-jewellery-web.vercel.app/)
 
 ## Features
  
