@@ -20,7 +20,7 @@ A modern and responsive React application for showcasing and shopping watches. T
 Before you begin, ensure you have met the following requirements:  
 
 - You have installed [Node.js](https://nodejs.org/) (version 16 or above recommended)  
-- You have a package manager such as [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) installed  
+- You have a package manager such as [npm](https://www.npmjs.com/) installed  
 - Access to the internet for fetching dependencies  
 
 ## Installation
