@@ -2,9 +2,6 @@
 
 A modern and responsive React application for showcasing and shopping watches. This web project is designed to provide a seamless user experience with clean UI components, responsive design, and smooth navigation. It leverages React’s component-based architecture and modern CSS styling to deliver an engaging watch retail platform.
 
-## Demo
-
-A live demo of the project is [avaiable here](https://react-jewellery-web.vercel.app/)
 
 ## Features
  
